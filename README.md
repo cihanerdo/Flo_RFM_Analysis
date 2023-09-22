@@ -22,7 +22,7 @@ It consists of information obtained from the past shopping behaviour of the cust
 
 | master_id | Unique customer number |
 | --- | --- |
-| order_channel | order_channel Which channel of the shopping platform is used (Android, ios, Desktop, Mobile) |
+| order_channel | Which channel of the shopping platform is used (Android, ios, Desktop, Mobile) |
 | last_order_channel | The channel where the last purchase was made |
 | first_order_date | Date of the customer's first purchase |
 | last_order_date | Date of the last purchase made by the customer |
